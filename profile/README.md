@@ -8,6 +8,8 @@ Agents are exploding across the web, but the ecosystem is scattered. There is no
 
 📘 **Live Documentation:** https://docs.agentcommunity.org
 
+!! new specification: [Agent Interface Discovery](aid.agentcommunity.org)
+
 ## Our Mission
 
 The Agent Community is an open, non‑commercial home where builders, researchers, and operators:
