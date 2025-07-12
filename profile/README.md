@@ -8,7 +8,7 @@ Agents are exploding across the web, but the ecosystem is scattered. There is no
 
 📘 **Live Documentation:** https://docs.agentcommunity.org
 
-!! new specification: [Agent Interface Discovery](aid.agentcommunity.org)
+🚨 new specification: [Agent Interface Discovery](aid.agentcommunity.org)
 
 ## Our Mission
 
