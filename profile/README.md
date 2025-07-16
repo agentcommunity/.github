@@ -79,7 +79,6 @@ Today agent developers face:
 
 *Let's build an agentic web that is open, safe, and interoperable.*
 
-[![Deploy Docs](https://github.com/agentcommunity/docs/actions/workflows/docs.yml/badge.svg)](https://github.com/agentcommunity/docs/actions/workflows/docs.yml)
 
 📘 **Live site:** https://docs.agentcommunity.org
 
