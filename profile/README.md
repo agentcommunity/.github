@@ -33,12 +33,12 @@ The Agent Community is an open, non‑commercial home where builders, researcher
 
 <div class="grid cards" markdown>
 
--   [:material-book-open:{ .lg .middle } __Work Items__](specs/index.md)
+-   [__Work Items__](specs/index.md)
 
     Browse all current and upcoming specifications from the Agent Community.
 
 
--   [:material-forum:{ .lg .middle } __Join the Discussion__](https://github.com/orgs/agentcommunity/discussions)
+-   [ __Join the Discussion__](https://github.com/orgs/agentcommunity/discussions)
 
 
     Have questions, ideas, or feedback? Join the community conversation on GitHub.
